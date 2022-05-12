@@ -24,7 +24,7 @@
 ![screen shot NoFraud Phone Validator](assets/images/screenshot.png?raw=true "NoFraud Screenshot")
 
 ## Web URL
-https://kennwg.github.io/no-fraud/
+https://enshenzhu.github.io/no-fraud/
 
 ## Github repo URL
-https://github.com/KennWg/no-fraud.git
+https://github.com/EnshenZhu/no-fraud

@@ -5,6 +5,13 @@
 // import api key for MapQuest API
 // var apiKeyMap="jDRCcpslgqlzGKPpjn9f6ElnCMI8W49W";
 
+// import api key for Abstract API
+var apiKeyTel1="c01886ccc8fc4dbe8891c5f0357dd5bc";
+// import api key for numberify API
+var apiKeyTel2="bdc7f61860e05e5ba773ad3b44017274";
+// import api key for MapQuest API
+var apiKeyMap="jDRCcpslgqlzGKPpjn9f6ElnCMI8W49W";
+
 var telForm = document.getElementById("phone-form"),
     telInput = document.getElementById("phone"),
     formMessage = document.getElementById("form-message"),
